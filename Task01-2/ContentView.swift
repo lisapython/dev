@@ -10,10 +10,10 @@ import SwiftUI
 
 struct ContentView: View {
     let otherStrings = ["0"," + "," - "]
-    let firstNum = "0"
+    //let firstNum = "0"
     @State var inputContent:String = ""
-    @State var name: String = ""
-    @State var buttonString: String = ""
+    //@State var name: String = ""
+    //@State var buttonString: String = ""
     
     var body: some View {
         VStack{
